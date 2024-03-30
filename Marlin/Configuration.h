@@ -690,8 +690,8 @@
     #define DEFAULT_Ki_LIST {   1.08,   1.08 }
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
-    //500degC Microswiss (Sprite)
-    #define DEFAULT_Kp  13.4105   // default (sprite): 17.41
+    //500degC Microswiss (3vD - Sprite)
+    #define DEFAULT_Kp  13.4105   // default (3vD sprite): 17.41
     #define DEFAULT_Ki   1.90570   // default ("): 1.48
     #define DEFAULT_Kd 23.5924    // default ("): 51.21
   #endif
